@@ -14,7 +14,7 @@ This project generates a dashboard using:
 
 ### 1. Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/GALANGMACALINAO_QUIZ3.git
+git clone https://github.com/totaaa654/GalangMacalinao_Quiz3_SA.git
 
 cd GALANGMACALINAO_QUIZ3
 

@@ -62,7 +62,7 @@ sns.histplot(
     edgecolor="black",
     linewidth=0.5
 )
-axes[0, 0].set_title("Histogram of YUP IT WORKS", fontweight="bold")
+axes[0, 0].set_title("Histogram of GPA", fontweight="bold")
 axes[0, 0].set_xlabel("GPA")
 axes[0, 0].set_ylabel("Frequency")
 

@@ -23,6 +23,8 @@ cd GALANGMACALINAO_QUIZ3
 ### 2. Run using Docker (ONE COMMAND)
 
 docker compose up --build
+## if output only, run this directly to terminal
+docker run -v ${PWD}/outputs:/app/outputs totaaa/student-dashboard
 
 ---
 
